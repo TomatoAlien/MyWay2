@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyWay</string>
+    <string name="welcomeTxt">Welcome</string>
+    <string name="nameTxt">Name</string>
+    <string name="passwordTxt">Password</string>
+    <string name="startBtn">Start</string>
+    <string name="signupLabel">SignUp</string>
+    <string name="signupTxt">SignUp</string>
+    <string name="startBtn2">Start</string>
+    <string name="passwordTxt2">Password</string>
+    <string name="nameTxt2">Name</string>
+    <string name="emailTxt">Email</string>
+    <string name="signupBtn">SignUp</string>
+    <string name="signupLabell">SignUp</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

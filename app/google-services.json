@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062063080667",
+    "firebase_url": "https://myway-fa981-default-rtdb.firebaseio.com",
+    "project_id": "myway-fa981",
+    "storage_bucket": "myway-fa981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062063080667:android:d54493ad7a6421739c38fe",
+        "android_client_info": {
+          "package_name": "cl.tomato.myway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062063080667-kutu723g0purjrska7rqqrntaspi774i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.tomato.myway",
+            "certificate_hash": "7bcc38720386e143c99291811ebae0878e5fba77"
+          }
+        },
+        {
+          "client_id": "1062063080667-7lcg842d9cka403rds3svht3qilvmoo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUu4Fj1T7dLl1ZkyvzRRWAz9pUP0KsyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062063080667-7lcg842d9cka403rds3svht3qilvmoo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
